@@ -15,15 +15,15 @@ Katalognummer | Name
 2 | Augustin
 3 | Danko
 
-Laut [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
-Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde.
+Laut [Wikipedia](https://de.wikipedia.org/wiki/Markdown):  
+> Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde.
 
 [Bild](https://de.wikipedia.org/wiki/Datei:Markdown-mark.svg)
 
 
 wir schreiben folgende C-Funktion `main()`:
 
-```
+```C
   int main () {
   printf("Willkommen");
 
